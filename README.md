@@ -52,7 +52,7 @@ I have added **About Us(FAQ Section)** in case you want to know more.
 
 ## Screenshots
 
-<img src="screenshots/IMG_20200517_180404.jpg" height="300" width="200" hspace="10"><img src="screenshots/IMG_20200517_180428.jpg" height="300" width="200" hspace="10"><img src="screenshots/IMG_20200517_180441.jpg" height="300" width="200" hspace="10"><img src="screenshots/IMG_20200517_180513.jpg" height="300" width="200"><img src="screenshots/IMG_20200517_180546.jpg" height="300" width="200" hspace="10">
+<img src="screenshots/IMG_20200517_180404.jpg" height="400" width="250" hspace="10"><img src="screenshots/IMG_20200517_180428.jpg" height="400" width="250" hspace="10"><img src="screenshots/IMG_20200517_180441.jpg" height="400" width="250" hspace="10"><img src="screenshots/IMG_20200517_180513.jpg" height="400" width="250"><img src="screenshots/IMG_20200517_180546.jpg" height="400" width="250" hspace="10">
 
 ---
 
